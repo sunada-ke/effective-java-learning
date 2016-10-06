@@ -3,7 +3,7 @@ package chapter6;
 import java.util.Map;
 import java.util.WeakHashMap;
 
-/*
+/**
  * 廃れたオブジェクト参照を取り除く
  */
 public final class Main {
