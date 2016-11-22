@@ -49,8 +49,7 @@ public final class Main {
 		}
 
 		// しかし、匿名内部クラスを利用すると、毎回インスタンスを生成してしまうので、
-		// 繰り返行するのであるならば、シングルトンインスタンスを使いまわした方が良い。
-
+		// 繰り返し実行するのであるならば、シングルトンインスタンスを使いまわした方が良い。
 		String[] stringArrays2 = new String[3];
 		stringArrays2[0] = "a";
 		stringArrays2[1] = "ccc";
