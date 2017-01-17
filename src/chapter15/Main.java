@@ -39,5 +39,4 @@ public class Main {
 		// パフォーマンスが問題となる場合、可変クラスを利用することを検討する。
 		// String クラスではなく、StringBuilder クラス。
 	}
-
 }
